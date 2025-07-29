@@ -6,7 +6,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 🖥️ Currently learning **C++** and focusing on problem solving  
+- 🖥️ Currently learning **C++** and **HTML** and focusing on problem solving  
 - 🐧 Exploring Linux & programming tools  
 - 💬 Ask me about **PC building, tech stuff, or programming basics**  
 - 📫 Reach me on **Telegram / Instagram / Facebook / Gmail / WhatsApp**  
@@ -24,6 +24,7 @@
 
 ### 🛠 Tech Toolbox
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
@@ -38,22 +39,11 @@
 
 ---
 
-### Special Button (HTML)
-<a href="https://github.com/shihap12" style="
-  display:inline-block;
-  padding:10px 20px;
-  background:#4CAF50;
-  color:white;
-  font-weight:bold;
-  text-decoration:none;
-  border-radius:8px;
-  transition:0.3s;
-" onmouseover="this.style.background='#45a049'" onmouseout="this.style.background='#4CAF50'">
-  Visit My GitHub
-</a>
-
----
-
 **Code Life Cycle**  
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Error!"/>
-&nbsp;&nbsp;&nbsp;&nb
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="Working!"/>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="Magic!"/>
+
+</div>
