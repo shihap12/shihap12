@@ -38,12 +38,22 @@
 
 ---
 
+### Special Button (HTML)
+<a href="https://github.com/shihap12" style="
+  display:inline-block;
+  padding:10px 20px;
+  background:#4CAF50;
+  color:white;
+  font-weight:bold;
+  text-decoration:none;
+  border-radius:8px;
+  transition:0.3s;
+" onmouseover="this.style.background='#45a049'" onmouseout="this.style.background='#4CAF50'">
+  Visit My GitHub
+</a>
+
+---
+
 **Code Life Cycle**  
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Error!"/>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="Working!"/>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="Magic!"/>
-
-</div>
-
+&nbsp;&nbsp;&nbsp;&nb
