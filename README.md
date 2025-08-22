@@ -7,6 +7,7 @@
 
 ### 👨‍💻 About Me
 - 🖥️ Currently learning **C++**, **HTML**, and **CSS** and focusing on problem solving  
+- 🌐 **Web Developer**  
 - 🐧 Exploring Linux & programming tools  
 - 💬 Ask me about **PC building, tech stuff, or programming basics**  
 - 📫 Reach me on **Telegram / Instagram / Facebook / Gmail / WhatsApp**  
