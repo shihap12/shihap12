@@ -6,7 +6,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 🖥️ Currently learning **C++** and **HTML** and focusing on problem solving  
+- 🖥️ Currently learning **C++**, **HTML**, and **CSS** and focusing on problem solving  
 - 🐧 Exploring Linux & programming tools  
 - 💬 Ask me about **PC building, tech stuff, or programming basics**  
 - 📫 Reach me on **Telegram / Instagram / Facebook / Gmail / WhatsApp**  
@@ -25,6 +25,7 @@
 ### 🛠 Tech Toolbox
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
