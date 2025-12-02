@@ -6,11 +6,12 @@
 ---
 
 ### 👨‍💻 About Me
-- 🖥️ Currently learning **C++**, **HTML**, and **CSS** and focusing on problem solving  
-- 🌐 **Web Developer**  
-- 🐧 Exploring Linux & programming tools  
-- 💬 Ask me about **PC building, tech stuff, or programming basics**  
-- 📫 Reach me on **Telegram / Instagram / Facebook / Gmail / WhatsApp**  
+- 🖥️ Currently learning to become a Full-Stack Developer
+- 🌐 Front-End Focus: Completed HTML, CSS, and JavaScript; next learning React and Bootstrap
+- 🔙 Back-End Plan: Will learn PHP and its framework Laravel
+- 🌐 Other Skills Coming: Protocols, SEO, and Databases  
+- 💬 Ask me about Web Development, Programming, or Tech Tips
+- 📫 Reach me on Telegram / Instagram / Facebook / Gmail / WhatsApp
 
 ---
 
