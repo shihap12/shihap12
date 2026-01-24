@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/>  
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/>  
 <h2>شهاب جابر | Shihap Gaper</h2>
 
 ---
@@ -9,7 +9,7 @@
 - 🖥️ Currently learning to become a Full-Stack Developer
 - 🌐 Front-End Focus: Completed HTML, CSS, and JavaScript; next learning React and Bootstrap
 - 🔙 Back-End Plan: Will learn PHP and its framework Laravel
-- 🌐 Other Skills Coming: Protocols, SEO, and Databases  
+- 🌐 Other Skills Coming: Protocols, SEO, and Databases  
 - 💬 Ask me about Web Development, Programming, or Tech Tips
 - 📫 Reach me on Telegram / Instagram / Facebook / Gmail / WhatsApp
 
@@ -39,16 +39,18 @@
 ---
 
 ### GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=shihap12&show_icons=true&theme=tokyonight" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shihap12&layout=compact&theme=tokyonight" width="48%"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shihap12&show_icons=true&theme=radical&hide_border=true&title_color=61DAFB&icon_color=F7DF1E" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shihap12&layout=compact&theme=radical&hide_border=true&title_color=61DAFB" width="48%"/>
+</p>
 
 ---
 
-**Code Life Cycle**  
+**Code Life Cycle**  
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Error!"/>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="Working!"/>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="Magic!"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/white/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="Magic!"/>
 
 </div>
