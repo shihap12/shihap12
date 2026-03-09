@@ -36,10 +36,27 @@
 
 ---
 
-### GitHub Stats
+### 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shihap12&show_icons=true&theme=radical&hide_border=true&title_color=61DAFB&icon_color=F7DF1E" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shihap12&layout=compact&theme=radical&hide_border=true&title_color=61DAFB" width="48%"/>
+  <a href="https://github.com/shihap12">
+    <img src="https://github-readme-stats.vercel.app/api?username=shihap12&show_icons=true&theme=radical&hide_border=true&title_color=61DAFB&icon_color=F7DF1E&include_all_commits=true&count_private=true&cache_seconds=86400" width="48%" alt="GitHub Stats"/>
+  </a>
+  <a href="https://github.com/shihap12">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shihap12&layout=compact&theme=radical&hide_border=true&title_color=61DAFB&langs_count=8&cache_seconds=86400" width="48%" alt="Top Languages"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/shihap12">
+    <img src="https://streak-stats.demolab.com?user=shihap12&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" width="55%" alt="GitHub Streak"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/shihap12">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=shihap12&theme=redical&hide_border=true&area=true" width="90%" alt="Activity Graph"/>
+  </a>
 </p>
 
 ---
