@@ -40,10 +40,10 @@
 
 <p align="center">
   <a href="https://github.com/shihap12">
-    <img src="https://github-readme-stats.vercel.app/api?username=shihap12&show_icons=true&theme=radical&hide_border=true&title_color=61DAFB&icon_color=F7DF1E&include_all_commits=true&count_private=true&cache_seconds=86400" width="48%" alt="GitHub Stats"/>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=shihap12&show_icons=true&theme=radical&hide_border=true&title_color=61DAFB&icon_color=F7DF1E&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats"/>
   </a>
   <a href="https://github.com/shihap12">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shihap12&layout=compact&theme=radical&hide_border=true&title_color=61DAFB&langs_count=8&cache_seconds=86400" width="48%" alt="Top Languages"/>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shihap12&layout=compact&theme=radical&hide_border=true&title_color=61DAFB&langs_count=8" width="48%" alt="Top Languages"/>
   </a>
 </p>
 
