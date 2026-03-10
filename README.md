@@ -7,16 +7,18 @@
 ---
 
 ### 👨‍💻 About Me
+
 - 🖥️ Currently learning to become a Full-Stack Developer
 - 🌐 Front-End Focus: Completed HTML, CSS, and JavaScript; next learning React
 - 🔙 Back-End Plan: Will learn PHP
-- 🌐 Other Skills Coming: Protocols, SEO, and Databases  
+- 🌐 Other Skills Coming: Protocols, SEO, and Databases
 - 💬 Ask me about Web Development, Programming, or Tech Tips
 - 📫 Reach me on Telegram / Instagram / Facebook / Gmail / WhatsApp
 
 ---
 
 ### 🔗 Connect With Me
+
 [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/HP)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_shihap_gaper_/profilecard/?igsh=bWg3cTNlZ3Exdzlv)
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/16v2XAY9Zs/)
@@ -26,9 +28,10 @@
 ---
 
 ### 🛠 Tech Toolbox
+
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,java,html,css,js,react,tailwind,php,vscode,visualstudio,git" />
+    <img src="https://skillicons.dev/icons?i=cpp,java,html,css,js,react,tailwind,php,mysql,vscode,visualstudio,git" />
   </a>
   &nbsp;&nbsp;
  
