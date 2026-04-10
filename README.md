@@ -14,8 +14,7 @@
 - ⚙️ **Back-End & DB:** Skilled in **PHP** and **MySQL** for building robust server-side applications.
 - 🤖 **Workflow:** Leveraging AI-driven development tools for clean and efficient code.
 - 💬 Ask me about **Web Development, UI/UX Animations, or System Logic**.
-- 📫 Reach me on: [Telegram](رابطك) / [LinkedIn](رابطك) / [WhatsApp](رابطك)
----
+- 📫 Reach me on Telegram / Instagram / Facebook / Gmail / WhatsApp---
 
 ### 🔗 Connect With Me
 
