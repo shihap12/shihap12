@@ -8,13 +8,13 @@
 
 ### 👨‍💻 About Me
 
-- 🖥️ Currently learning to become a Full-Stack Developer
-- 🌐 Front-End Focus: Completed HTML, CSS, and JavaScript; next learning React
-- 🔙 Back-End Plan: Will learn PHP
-- 🌐 Other Skills Coming: Protocols, SEO, and Databases
-- 💬 Ask me about Web Development, Programming, or Tech Tips
-- 📫 Reach me on Telegram / Instagram / Facebook / Gmail / WhatsApp
-
+- 🚀 **Full-Stack Developer** specializing in building interactive and cinematic web experiences.
+- 💻 **Frontend Focus:** Proficient in **React.js**, **TypeScript**, and **Tailwind CSS**.
+- 🎭 **Animations:** Crafting high-end UI using **GSAP** and interactive web design.
+- ⚙️ **Back-End & DB:** Skilled in **PHP** and **MySQL** for building robust server-side applications.
+- 🤖 **Workflow:** Leveraging AI-driven development tools for clean and efficient code.
+- 💬 Ask me about **Web Development, UI/UX Animations, or System Logic**.
+- 📫 Reach me on: [Telegram](رابطك) / [LinkedIn](رابطك) / [WhatsApp](رابطك)
 ---
 
 ### 🔗 Connect With Me
