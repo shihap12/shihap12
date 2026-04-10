@@ -57,8 +57,7 @@
 
 <p align="center">
   <a href="https://github.com/shihap12">
- <img src="https://gh-heat.anishroy.com/api/shihap12/svg?theme=purple&darkMode=true&shape=circle&shadow=true" width="90%" alt="Yearly GitHub Contribution Heatmap"/>
-  </a>
+<img src="https://gh-heat.anishroy.com/api/shihap12/svg?theme=blue&darkMode=true&shape=square&shadow=true" width="90%" alt="Yearly GitHub Contribution Heatmap"/>  </a>
 </p>
 
 ---
